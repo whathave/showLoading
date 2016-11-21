@@ -1,0 +1,11 @@
+/*
+* @Author: sunala
+* @Date:   2016-11-21 19:16:23
+* @Last Modified by:   sunala
+* @Last Modified time: 2016-11-21 19:17:36
+*/
+/* Loading */
+
+#Loading {position:absolute;background:#FFF;border:2px solid #FFE79D;color:#333;padding:10px 30px 10px 30px;z-index:999999;text-align:center;}
+#Loading img{vertical-align:middle;}
+#LoadingBg {position:absolute;background:#FFF;left:0px;top:0px;width:100%;height:100%;z-index:999998;}
