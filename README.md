@@ -2,6 +2,8 @@
  
  
  name:loading加载弹出框;
+
+ devDependencies:jQuery;
  
  function:
 
